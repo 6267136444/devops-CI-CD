@@ -1,0 +1,109 @@
+21.07.2025
+
+Devops Audit-
+1. Privet Venture
+2. Gamut Electronic
+3. Davesmen
+
+Module B
+ Section 1.1
+DevOpsConsulting Practice-
+
+1. Responsibility- Viraj/Vijendra - Webpage design
+
+2. Responsibility- Vikash, Shubham & Khushabu- Terraform script.
+
+Evidence documents:
+
+1. Vikas & Shubham
+2. Khushabu, Surbhi, Priyanshu
+
+And Two Doc.-
+1. A Customer assessmen tplan including assets, for example: Questionnaires,
+Assessment worksheets and Templates- Priyanshu & Rajveer
+
+2. A Change control process document/A DevOpsKnowledge repository- Khushabu & Surbhi
+-----------------------------------------------------------------
+
+1.2 Certifications-
+ Responsibility- Shivangi Dubey
+• GitHubActions - Rajveer
+• GitHub Advanced Security - Priyanshu
+• GitHub Administration - Viraj
+
+2.1 
+Environment Assessment-
+Two Must-
+1. DevOpsbest practices/ - Khushabu & Viraj
+2. CI/CD Pipelines/ - Vikash & Shubham
+3. Infrastructure as Code (Automated deployment of Environment/Infrastructure using tools like GitHub Actions/DevOps pipelines with proper policies and controls in place) - Priyanshu & Rajveer
+
+Accepted Documentation:
+Assessment checklists, Templates, Questionnaires, and Project plans.
+
+Responsibility- Surbhi, Khushabu & Shubham
+
+=======================================================================
+
+3.1 SolutionDesign
+
+• ProposedDevOps automationfor applicationcode including: - Khushabu, Surbhi & Viraj
+o Automated buildand packaging tools and practices
+o Automated or Shift-left application security including Software
+Composition Analysis and Static or Variant Code Analysis
+o Automated deployment toAzure environment(s)
+
+• Proposed Infrastructure-as-codemanagement (as appropriate): Priyanshu & Vikas
+o Codemanagement practices forARM Templates, Terraform or
+other Azure- compliant Infrastructure as Code
+o Automated compliancechecks (e.g., Azure Policy)
+o Automated provisioninginboth pre-productionandproduction environments
+
+• Code securityand sharing:- Shubham & Rajveer
+o Categorization oftarget code basesdescribing access restrictions
+o Roles and permissions describing who can access, modify and/or maintain
+different codebases
+o Pull-requestorsimilarworkflowdescribinghowcodequalityand compliance will
+be verified
+o Branch Protections/Policies usedtoensurecompliant codeworkflows
+
+
+Acceptable Documentation: 
+Design document, - Surbhi
+Project plan, Khushabu
+Functional specifications, Vikash
+Architectural diagram, Priyanshu & Shubham
+Automated tooling reports, Rajveer
+or Physical and Logical diagrams. Viraj
+==========================================================
+3.2  Well -Architected Reviewof Workloads
+
+1. Privet Venture - Priyanshu
+2. Gamut Electronic - Rajveer
+3. Davesmen - Vijendra
+======================================================
+
+4.1 Delivery
+
+ two (2) of the following:
+
+• Solution design documents for all engagements- Surbhi
+• ProjectPlan and Migration/deployment sequence- Khushabu
+• Architecture diagrams- Priyanshu & Shubham
+
+=================================================================
+
+5.0Review and Release for Operations
+5.1 Service Validation and Testing
+
+1. Privet Venture - Khushabu
+2. Gamut Electronic - Surbhi
+3. Davesmen - Vikas
+
+
+5.2 Post-deploymentDocumentation
+
+ 
+1. Privet Venture - Khushabu/Rajveer
+2. Gamut Electronic - Surbhi/Priyanshu
+3. Davesmen - Vikas/Shubham
